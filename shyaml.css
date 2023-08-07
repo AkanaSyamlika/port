@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+    background-image: radial-gradient(rgb(231, 223, 223),rgb(162, 235, 216));
+}
+h1
+{
+    color: white;
+
+}
+header{
+    background-color: black;
+    height: 110px;
+    padding: 15px;
+
+}
+ul li{
+    display: inline;
+    color: rgb(133, 18, 18);
+    padding: 40px;
+
+}
+ul li a{
+    color: rgb(213, 124, 124);
+    text-decoration: none;
+}
+
+#home img{
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+}
+
+#portfolio
+{
+    text-align: center;
+    background-color: rgb(189, 201, 203);
+    padding: 10px;
+    border-radius:60px ;
+   
+}
+footer{
+    background-color: rgb(187, 27, 27);
+    height: 20px;
+
+}
+footer p{
+    background-color: gray;
+    height: 40px;
+}
+#bio
+{
+    background-color: rgb(128, 212, 162);
+    border-radius:60px ;
+}
+
+div{
+   padding-left: 100px;
+   padding-right: 100px;
+}
